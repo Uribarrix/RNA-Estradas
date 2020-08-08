@@ -26,4 +26,4 @@ Agora facemos unha primeira predición sobre a zona que queremos clasificar. Com
 
 Repetimos até que tivemos un resultado satisfactorio.
 <img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/mapaBN.jpg"></img>
-<img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/RNA-Asfalto-2.png"></img>
+
