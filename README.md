@@ -25,5 +25,5 @@ Realizamos o proceso de validación cruzada para valorar o axuste dos datos con 
 Agora facemos unha primeira predición sobre a zona que queremos clasificar. Comprobamos visualmente, montando o .csv da predición coma unha capa máis do proxecto de QGIS, que houbo zonas mal clasificadas e poñemos máis puntos sobre zonas de falso positivo e falso negativo.
 
 Repetimos até que tivemos un resultado satisfactorio.
-<img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/clasificada.tif"></img>
+<img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/mapaBN.jpg"></img>
 <img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/RNA-Asfalto-2.png"></img>
