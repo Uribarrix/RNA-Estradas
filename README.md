@@ -11,3 +11,19 @@ Creamos unha nova capa na que incorporamos píxeles clasificados manualmente com
 
 Exportamos cada unha destas capas como un ficheiro de valores separados por comas (.csv).
 
+Recorte da zona de Xixón, 12 bandas xa en formato .csv:
+<link>https://mega.nz/file/cdkjFDTJ#J1w-ZtQ_zBP0CygUhG_G2r0jwzT_4I2qa_MiAZ4rHMY</link>
+
+Seguindo os pasos comentados no código de RNA_Estradas.py, preparamos os datos para seren empregados na rene nueronal.
+
+Configuramos unha rede sinxela de tres capas ocultas e unha de saída.
+
+Levamos a cabo probas de grid search para obter os mellores valores para o batch size, número de épocas e o optimizador.
+
+Realizamos o proceso de validación cruzada para valorar o axuste dos datos con modelo.
+
+Agora facemos unha primeira predición sobre a zona que queremos clasificar. Comprobamos visualmente, montando o .csv da predición coma unha capa máis do proxecto de QGIS, que houbo zonas mal clasificadas e poñemos máis puntos sobre zonas de falso positivo e falso negativo.
+
+Repetimos até que tivemos un resultado satisfactorio.
+
+<img src="https://github.com/Uribarrix/RNA-Estradas/blob/master/RNA-Asfalto-2.png"></img>
